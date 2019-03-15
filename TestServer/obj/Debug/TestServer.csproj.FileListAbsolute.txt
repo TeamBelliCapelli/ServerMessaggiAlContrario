@@ -1,0 +1,17 @@
+C:\Users\sauzi\Desktop\NetWorking\Server15-03-2019\ServerMessaggiBaseAlContrario\TestServer\bin\Debug\TestServer.dll
+C:\Users\sauzi\Desktop\NetWorking\Server15-03-2019\ServerMessaggiBaseAlContrario\TestServer\bin\Debug\TestServer.pdb
+C:\Users\sauzi\Desktop\NetWorking\Server15-03-2019\ServerMessaggiBaseAlContrario\TestServer\bin\Debug\nunit.framework.dll
+C:\Users\sauzi\Desktop\NetWorking\Server15-03-2019\ServerMessaggiBaseAlContrario\TestServer\bin\Debug\ServerMessaggiBaseAlContrario.exe
+C:\Users\sauzi\Desktop\NetWorking\Server15-03-2019\ServerMessaggiBaseAlContrario\TestServer\bin\Debug\ServerMessaggiBaseAlContrario.pdb
+C:\Users\sauzi\Desktop\NetWorking\Server15-03-2019\ServerMessaggiBaseAlContrario\TestServer\bin\Debug\ServerMessaggiBaseAlContrario.exe.config
+C:\Users\sauzi\Desktop\NetWorking\Server15-03-2019\ServerMessaggiBaseAlContrario\TestServer\bin\Debug\nunit.framework.pdb
+C:\Users\sauzi\Desktop\NetWorking\Server15-03-2019\ServerMessaggiBaseAlContrario\TestServer\bin\Debug\nunit.framework.xml
+C:\Users\sauzi\Desktop\NetWorking\Server15-03-2019\ServerMessaggiBaseAlContrario\TestServer\obj\Debug\TestServer.csprojAssemblyReference.cache
+C:\Users\sauzi\Desktop\NetWorking\Server15-03-2019\ServerMessaggiBaseAlContrario\TestServer\obj\Debug\TestServer.csproj.CoreCompileInputs.cache
+C:\Users\sauzi\Desktop\NetWorking\Server15-03-2019\ServerMessaggiBaseAlContrario\TestServer\obj\Debug\TestServer.csproj.CopyComplete
+C:\Users\sauzi\Desktop\NetWorking\Server15-03-2019\ServerMessaggiBaseAlContrario\TestServer\obj\Debug\TestServer.dll
+C:\Users\sauzi\Desktop\NetWorking\Server15-03-2019\ServerMessaggiBaseAlContrario\TestServer\obj\Debug\TestServer.pdb
+C:\Users\sauzi\Desktop\NetWorking\Server15-03-2019\ServerMessaggiBaseAlContrario\TestServer\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\sauzi\Desktop\NetWorking\Server15-03-2019\ServerMessaggiBaseAlContrario\TestServer\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\sauzi\Desktop\NetWorking\Server15-03-2019\ServerMessaggiBaseAlContrario\TestServer\bin\Debug\nunit.engine.dll
+C:\Users\sauzi\Desktop\NetWorking\Server15-03-2019\ServerMessaggiBaseAlContrario\TestServer\bin\Debug\nunit.engine.api.dll
