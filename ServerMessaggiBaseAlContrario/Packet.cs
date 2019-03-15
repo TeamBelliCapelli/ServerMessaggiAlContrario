@@ -30,19 +30,11 @@ namespace ServerMessaggiBaseAlContrario
             id = ++packetCounter;
         }
 
-        public Packet(params object[] elements) : this()
+        public Packet(params byte[] elements) : this()
         {
             foreach (object element in elements)
             {
-                if (element is int)
-                {
-                    writer.Write((int)element);
-                }
-                else if (element is float)
-                {
-                    writer.Write((float)element);
-                }
-                else if (element is byte)
+                if (element is byte)
                 {
                     writer.Write((byte)element);
                 }
@@ -50,9 +42,9 @@ namespace ServerMessaggiBaseAlContrario
                 {
                     writer.Write((char)element);
                 }
-                else if (element is uint)
+                else if (element is string)
                 {
-                    writer.Write((uint)element);
+                    writer.Write((string)element);
                 }
                 else
                 {

@@ -48,7 +48,7 @@ namespace ServerMessaggiBaseAlContrario.Test
         public FakeData ClientDequeue()
         {
             FakeData packet = sendQueue.Dequeue();
-            Console.WriteLine(packet.data[0]);
+            Console.WriteLine(packet.data);
             return packet;
         }
 
